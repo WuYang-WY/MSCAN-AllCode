@@ -1,0 +1,82 @@
+[
+  {
+    "name": "720p_240fps_2",
+    "phase": "test",
+    "sample": [
+      "00057.jpg",
+      "00055.jpg"
+    ]
+  },
+  {
+    "name": "IMG_0003",
+    "phase": "test",
+    "sample": [
+      "00060.jpg",
+      "00027.jpg"
+    ]
+  },
+  {
+    "name": "IMG_0021",
+    "phase": "test",
+    "sample": [
+      "00007.jpg",
+      "00064.jpg"
+    ]
+  },
+  {
+    "name": "IMG_0030",
+    "phase": "test",
+    "sample": [
+      "00071.jpg",
+      "00099.jpg"
+    ]
+  },
+  {
+    "name": "IMG_0031",
+    "phase": "test",
+    "sample": [
+      "00027.jpg",
+      "00004.jpg"
+    ]
+  },
+  {
+    "name": "IMG_0032",
+    "phase": "test",
+    "sample": [
+      "00043.jpg",
+      "00071.jpg"
+    ]
+  },
+  {
+    "name": "IMG_0033",
+    "phase": "test",
+    "sample": [
+      "00027.jpg",
+      "00046.jpg"
+    ]
+  },
+  {
+    "name": "IMG_0037",
+    "phase": "test",
+    "sample": [
+      "00008.jpg",
+      "00067.jpg"
+    ]
+  },
+  {
+    "name": "IMG_0039",
+    "phase": "test",
+    "sample": [
+      "00011.jpg",
+      "00074.jpg"
+    ]
+  },
+  {
+    "name": "IMG_0049",
+    "phase": "test",
+    "sample": [
+      "00008.jpg",
+      "00043.jpg"
+    ]
+  }
+]
